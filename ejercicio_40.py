@@ -12,4 +12,5 @@ print (alumno["ciudad"])
 print (alumno["notas"][0])
 print (alumno["notas"][-1])
 print (alumno["notas"][:3])
-print (alumno["notas"][::-1])
+(alumno["notas"][2]) = 3
+print (alumno)
